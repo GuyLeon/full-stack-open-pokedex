@@ -44,7 +44,6 @@ const App = () => {
   }
 
   return (
-    //Breaking the build on purpose
     <Routes>
       <Route
         exact
